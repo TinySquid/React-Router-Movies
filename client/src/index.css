@@ -82,3 +82,9 @@ body {
   color: black;
   text-decoration: none;
 }
+
+.selected {
+  background: black;
+  opacity: 0.7;
+  color: white;
+}
